@@ -1,0 +1,9 @@
+
+$ mkdir FundaJuegos
+
+$ cd FundaJuegos/
+
+$ git init
+Initialized empty Git repository in E:/Documents/ces/ciclo 8/FundaJuegos/.git/
+
+$ git remote add origin https://github.com/ces9529/FundaJuegos20191.git
